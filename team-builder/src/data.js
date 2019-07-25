@@ -1,11 +1,14 @@
 export const data = [
     {
-        name: 'Eli Citron'
+        name: 'Eli Citron',
+        email: "ebcitron@gmail.com"
     },
     {
-        name: 'Zev'
+        name: 'Zev',
+        email: "squibiki@gmail.com"
     },
     {
-        name: 'Squiddy'
+        name: 'Squiddy',
+        email: "squidders666@gmail.com"
     }
 ]
